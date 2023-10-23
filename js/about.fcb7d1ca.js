@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkidea_generation_csapp"]=self["webpackChunkidea_generation_csapp"]||[]).push([[443],{4007:function(n,a,e){e.r(a),e.d(a,{default:function(){return d}});var t=e(3396);const r={class:"about"},s=(0,t._)("h1",null,"This is an about page",-1),u=[s];function i(n,a){return(0,t.wg)(),(0,t.iD)("div",r,u)}var c=e(89);const o={},p=(0,c.Z)(o,[["render",i]]);var d=p}}]);
+//# sourceMappingURL=about.fcb7d1ca.js.map
